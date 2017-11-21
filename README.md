@@ -14,4 +14,6 @@ To correctly open this project, you'll have to get Wamp first and inject the .sq
 - The code could make a good use of a DAO method
 - Aesthetics is quite precarious. Could be widely improved
 
+- and WAY too few comments. I'm still learning to document everything i'm doing, but back then i was much more careless.
+
 #### Note that these haven't been fixed since this was made as a project for my PHP courses. I haven't worked on it since then.
